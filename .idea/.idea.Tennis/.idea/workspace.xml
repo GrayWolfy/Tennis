@@ -114,7 +114,7 @@
       <workItem from="1605862231486" duration="3669000" />
       <workItem from="1605942427995" duration="15840000" />
       <workItem from="1606291868352" duration="13571000" />
-      <workItem from="1606382989703" duration="8384000" />
+      <workItem from="1606382989703" duration="9826000" />
     </task>
     <servers />
   </component>
@@ -127,6 +127,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="718" y="401" key="Github.ShareDialog" timestamp="1606391588115">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="718" y="401" key="Github.ShareDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1606391588115" />
     <state width="1636" height="357" key="GridCell.Tab.0.bottom" timestamp="1604768499797">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
